@@ -102,7 +102,7 @@ Este repositório está em conformidade com a **Lei Geral de Proteção de Dados
 
 | | |
 |---|---|
-| E-mail | ti.clinicaapice@gmail.com |
+| E-mail | contato@clinicaapice.com.br |
 | WhatsApp | +55 71 3028-8350 |
 | Site | [clinicaapice.com.br](https://clinicaapice.com.br) |
 

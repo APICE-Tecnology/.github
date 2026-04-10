@@ -8,6 +8,9 @@
 
 Salvador, Bahia, Brasil
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grupoapice-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/grupoapice)
+[![Instagram](https://img.shields.io/badge/Instagram-apice.clinica-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/apice.clinica)
+
 [![Chamados](https://img.shields.io/badge/chamados-ClickUp-7B68EE?logo=clickup&logoColor=white)](https://clickup.com/)
 [![Licença](https://img.shields.io/badge/Licença-Restrita_APICE-blue?logo=opensourceinitiative&logoColor=white)](https://github.com/APICE-Tecnology/.github/blob/main/LICENSE)
 [![LGPD](https://img.shields.io/badge/LGPD-Lei_13.709%2F2018-2E7D32)](https://github.com/APICE-Tecnology/.github/blob/main/docs/seguranca.md)
@@ -77,6 +80,6 @@ Salvador, Bahia, Brasil
 
 <div align="center">
 
-[clinicaapice.com.br](https://clinicaapice.com.br) · ti.clinicaapice@gmail.com · +55 71 3028-8350
+[clinicaapice.com.br](https://clinicaapice.com.br) · contato@clinicaapice.com.br · +55 71 3028-8350
 
 </div>
