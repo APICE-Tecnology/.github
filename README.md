@@ -22,6 +22,7 @@
 [![GitHub Org](https://img.shields.io/badge/GitHub-APICE--Tecnology-181717?logo=github&logoColor=white)](https://github.com/APICE-Tecnology)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 [![Chamados](https://img.shields.io/badge/chamados-ClickUp-7B68EE?logo=clickup&logoColor=white)](https://clickup.com/)
+![GPG Signed](https://img.shields.io/badge/commits-GPG_assinados-success?logo=gnuprivacyguard&logoColor=white)
 
 <!-- Infra cloud -->
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white)

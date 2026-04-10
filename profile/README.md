@@ -15,6 +15,7 @@ Salvador, Bahia, Brasil
 [![Licença](https://img.shields.io/badge/Licença-Restrita_APICE-blue?logo=opensourceinitiative&logoColor=white)](https://github.com/APICE-Tecnology/.github/blob/main/LICENSE)
 [![LGPD](https://img.shields.io/badge/LGPD-Lei_13.709%2F2018-2E7D32)](https://github.com/APICE-Tecnology/.github/blob/main/docs/seguranca.md)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
+![GPG Signed](https://img.shields.io/badge/commits-GPG_assinados-success?logo=gnuprivacyguard&logoColor=white)
 
 </div>
 
