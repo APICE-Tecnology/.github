@@ -2,7 +2,7 @@
 
 ![Documentação TI](https://utils.storage.apicesaudemental.link/capa-ti.png)
 
-# APICE — Saúde Mental Integrada
+# apice — saúde mental integrada
 
 *Porque a vida pode ser melhor.* — Salvador, Bahia
 
@@ -17,7 +17,8 @@
 [![Proof HTML](https://img.shields.io/github/actions/workflow/status/APICE-Tecnology/demo-repository/proof-html.yml?label=Proof+HTML&logo=github&logoColor=white)](https://github.com/APICE-Tecnology/demo-repository/actions/workflows/proof-html.yml)
 
 <!-- Projeto -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue?logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Licença](https://img.shields.io/badge/Licença-Restrita_APICE-blue?logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![LGPD](https://img.shields.io/badge/LGPD-Lei_13.709%2F2018-2E7D32)](docs/seguranca.md)
 [![GitHub Org](https://img.shields.io/badge/GitHub-APICE--Tecnology-181717?logo=github&logoColor=white)](https://github.com/APICE-Tecnology)
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 [![Chamados](https://img.shields.io/badge/chamados-ClickUp-7B68EE?logo=clickup&logoColor=white)](https://clickup.com/)
@@ -54,15 +55,15 @@
 
 ## A empresa
 
-A APICE é uma rede integrada de clínicas e hospitais especializados em saúde mental, com atuação em todos os níveis de cuidado — do ambulatório à emergência psiquiátrica 24h.
+A **apice** é uma rede integrada de clínicas e hospitais especializados em saúde mental, com atuação em todos os níveis de cuidado — do ambulatório à emergência psiquiátrica 24h.
 
 | Unidade | Nível de cuidado |
 |---|---|
-| **Apice In** | Emergência 24h e internamento integral |
-| **Apice Day** | Hospital-dia e reabilitação psicossocial |
-| **Apice Kids** | Atendimento infanto-juvenil especializado |
-| **Apice Consult** | Consultas e acompanhamento ambulatorial |
-| **Instituto APICE** | Formação, residência e educação continuada |
+| **apice In** | Emergência 24h e internamento integral |
+| **apice Day** | Hospital-dia e reabilitação psicossocial |
+| **apice Kids** | Atendimento infanto-juvenil especializado |
+| **apice Consult** | Consultas e acompanhamento ambulatorial |
+| **Instituto apice** | Formação, residência e educação continuada |
 
 ---
 
@@ -79,14 +80,20 @@ Painéis de chamada e totems de atendimento nas unidades, via [APICE-Tecnology/P
 
 ---
 
+## Conformidade com a LGPD
+
+Este repositório está em conformidade com a **Lei Geral de Proteção de Dados (Lei 13.709/2018)**. Dados sensíveis de saúde são tratados com base no Art. 11, II, f — tutela da saúde por serviços de saúde. Nenhum dado pessoal de pacientes deve ser versionado. Para regras completas, consulte [segurança e LGPD](docs/seguranca.md).
+
+---
+
 ## Documentação
 
 | | |
 |---|---|
-| [A empresa e como funciona](docs/institucional.md) | Missão, valores OAPICE, estrutura e cultura |
+| [A empresa e como funciona](docs/institucional.md) | Missão, valores, estrutura e cultura |
 | [Nossas unidades](docs/unidades.md) | O que cada unidade faz, para quem e como o cuidado flui |
 | [Infraestrutura e sistemas](docs/infraestrutura.md) | Domínios, Workers, R2, banco de dados e integrações |
-| [Segurança e LGPD](docs/seguranca.md) | Controle de acesso, senhas, proteção de dados |
+| [Segurança e LGPD](docs/seguranca.md) | Controle de acesso, senhas, proteção de dados, LGPD |
 | [Contribuindo com o GitHub](docs/contribuindo.md) | Issues, PRs, padrões e transferência de repositórios |
 
 ---
@@ -103,6 +110,6 @@ Painéis de chamada e totems de atendimento nas unidades, via [APICE-Tecnology/P
 
 <div align="center">
 
-MIT License © 2026 [APICE-Tecnology](https://github.com/APICE-Tecnology)
+© 2026 [APICE-Tecnology](https://github.com/APICE-Tecnology) — Uso restrito. Ver [LICENSE](LICENSE).
 
 </div>

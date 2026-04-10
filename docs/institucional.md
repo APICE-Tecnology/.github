@@ -1,16 +1,16 @@
 ![Documentação TI](https://utils.storage.apicesaudemental.link/documentacao-ti.png)
 
-# A empresa — APICE
+# A empresa — apice
 
 ---
 
 ## O que é a APICE
 
-A **APICE** é uma rede integrada de clínicas e hospitais especializados em saúde mental, sediada em Salvador, Bahia. Atuamos em todos os níveis de cuidado psiquiátrico — da consulta ambulatorial à emergência 24h —, com foco em continuidade, humanização e base científica.
+A **apice** é uma rede integrada de clínicas e hospitais especializados em saúde mental, sediada em Salvador, Bahia. Atuamos em todos os níveis de cuidado psiquiátrico — da consulta ambulatorial à emergência 24h —, com foco em continuidade, humanização e base científica.
 
 > *Porque a vida pode ser melhor.*
 
-Somos compostos por quatro frentes assistenciais (**In, Day, Kids, Consult**) e um braço educacional (**Instituto APICE**), todos operando de forma integrada para garantir que o paciente transite entre os níveis de cuidado sem ruptura no acompanhamento.
+Somos compostos por quatro frentes assistenciais (**In, Day, Kids, Consult**) e um braço educacional (**Instituto apice**), todos operando de forma integrada para garantir que o paciente transite entre os níveis de cuidado sem ruptura no acompanhamento.
 
 ---
 
@@ -18,23 +18,23 @@ Somos compostos por quatro frentes assistenciais (**In, Day, Kids, Consult**) e 
 
 | Unidade | Nível | Perfil do paciente |
 |---|---|---|
-| **Apice In** | Internação / Emergência | Crise aguda, risco elevado, necessidade de contenção |
-| **Apice Day** | Hospital-dia | Estável para casa, mas requer acompanhamento intensivo diário |
-| **Apice Kids** | Ambulatorial + intensivo infanto-juvenil | Crianças e adolescentes com demandas de saúde mental |
-| **Apice Consult** | Ambulatorial | Manutenção, acompanhamento de longo prazo |
-| **Instituto APICE** | Educacional | Residentes, profissionais e gestores em formação |
+| **apice In** | Internação / Emergência | Crise aguda, risco elevado, necessidade de contenção |
+| **apice Day** | Hospital-dia | Estável para casa, mas requer acompanhamento intensivo diário |
+| **apice Kids** | Ambulatorial + intensivo infanto-juvenil | Crianças e adolescentes com demandas de saúde mental |
+| **apice Consult** | Ambulatorial | Manutenção, acompanhamento de longo prazo |
+| **Instituto apice** | Educacional | Residentes, profissionais e gestores em formação |
 
 ---
 
 ## Fluxo de cuidado integrado
 
-A APICE opera como uma rede — o paciente pode entrar em qualquer nível e ser conduzido conforme a evolução clínica, sem precisar buscar outro serviço.
+A apice opera como uma rede — o paciente pode entrar em qualquer nível e ser conduzido conforme a evolução clínica, sem precisar buscar outro serviço.
 
 ```
 Crise aguda
-    → Apice In (internação / emergência 24h)
-        → melhora → Apice Day (hospital-dia)
-            → melhora → Apice Consult (acompanhamento)
+    → apice In (internação / emergência 24h)
+        → melhora → apice Day (hospital-dia)
+            → melhora → apice Consult (acompanhamento)
                 → alta com seguimento
 
 Entrada direta possível em qualquer nível.
@@ -43,9 +43,9 @@ Qualquer piora pode escalar para o nível acima.
 
 ---
 
-## Instituto APICE
+## Instituto apice
 
-O **Instituto APICE** é o braço educacional da rede. Responsável pela formação de residentes em psiquiatria, pela imersão de profissionais em saúde mental e pelo desenvolvimento de gestores.
+O **Instituto apice** é o braço educacional da rede, responsável pela formação de residentes em psiquiatria, pela imersão de profissionais em saúde mental e pelo desenvolvimento de gestores.
 
 **Residência em Psiquiatria**
 Formação médica completa com rotação por todas as unidades: In, Day, Kids e Consult. Combina teoria supervisionada com prática clínica real.
@@ -60,7 +60,7 @@ Contato: contato@clinicaapice.com.br
 
 ## Valores — OAPICE
 
-Os valores da APICE formam o acrônimo **OAPICE** e orientam cada decisão clínica, operacional e cultural da rede.
+Os valores da apice formam o acrônimo **OAPICE** e orientam cada decisão clínica, operacional e cultural da rede.
 
 | Letra | Valor | O que significa na prática |
 |---|---|---|

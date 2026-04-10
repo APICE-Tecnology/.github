@@ -2,11 +2,11 @@
 
 # Nossas Unidades
 
-A APICE opera em rede. Cada unidade tem um papel específico na jornada terapêutica, e o paciente transita entre elas conforme a evolução clínica.
+A apice opera em rede. Cada unidade tem um papel específico na jornada terapêutica, e o paciente transita entre elas conforme a evolução clínica.
 
 ---
 
-## Apice In — Emergência e Internação
+## apice In — Emergência e Internação
 
 **Nível:** Internação integral / Emergência 24h
 
@@ -27,7 +27,7 @@ O Apice In é a porta de entrada para casos de maior complexidade. Funciona inin
 
 ---
 
-## Apice Day — Hospital-Dia
+## apice Day — Hospital-Dia
 
 **Nível:** Tratamento intensivo sem internação integral
 
@@ -47,7 +47,7 @@ O Apice Day é o espaço de transição entre a internação e o ambulatório. O
 
 ---
 
-## Apice Kids — Infanto-Juvenil
+## apice Kids — Infanto-Juvenil
 
 **Nível:** Ambulatorial especializado + modalidades intensivas
 
@@ -73,14 +73,14 @@ O Apice Kids é a frente especializada para crianças e adolescentes. A abordage
 
 ---
 
-## Apice Consult — Ambulatório
+## apice Consult — Ambulatório
 
 **Nível:** Acompanhamento ambulatorial contínuo
 
 O Apice Consult é a base do cuidado de manutenção. É onde a maioria dos pacientes estabilizados são acompanhados a longo prazo — e também a principal porta de entrada para quem ainda não foi avaliado.
 
 **Indicações:**
-- Primeiro contato com a rede APICE
+- Primeiro contato com a rede apice
 - Acompanhamento de transtornos estabilizados
 - Manutenção medicamentosa e psicoterapêutica
 - Pós-alta do Apice Day ou In com necessidade de seguimento
@@ -93,11 +93,11 @@ O Apice Consult é a base do cuidado de manutenção. É onde a maioria dos paci
 
 ---
 
-## Instituto APICE — Formação
+## Instituto apice — Formação
 
 **Tipo:** Educacional (não assistencial)
 
-O Instituto APICE é o braço de ensino da rede. Forma médicos residentes em psiquiatria, capacita profissionais de saúde e desenvolve gestores para atuar na área de saúde mental.
+O Instituto apice é o braço de ensino da rede. Forma médicos residentes em psiquiatria, capacita profissionais de saúde e desenvolve gestores para atuar na área de saúde mental.
 
 Site: [institutoapice.org.br](https://institutoapice.org.br)
 
@@ -126,17 +126,17 @@ Entrada                    Nível de cuidado
 Qualquer porta →    Avaliação → encaminhamento adequado
 
                     ┌──────────────┐
-                    │  Apice In    │  Emergência / Internação
+                    │  apice In    │  Emergência / Internação
                     │  (24h)       │
                     └──────┬───────┘
                            │ alta
                     ┌──────▼───────┐
-                    │  Apice Day   │  Hospital-dia
+                    │  apice Day   │  Hospital-dia
                     │              │
                     └──────┬───────┘
                            │ alta
                     ┌──────▼───────┐
-                    │Apice Consult │  Ambulatório
+                    │apice Consult │  Ambulatório
                     │  / Kids      │
                     └──────────────┘
 

@@ -1,6 +1,6 @@
 ![Documentação TI](https://utils.storage.apicesaudemental.link/documentacao-ti.png)
 
-# Segurança e LGPD — APICE
+# Segurança e LGPD — apice
 
 Regras de acesso, proteção de dados de saúde e procedimentos para incidentes.
 
@@ -8,7 +8,7 @@ Regras de acesso, proteção de dados de saúde e procedimentos para incidentes.
 
 ## Controle de acesso
 
-O acesso a todos os sistemas da APICE é gerenciado por **nível de permissão** e **unidade de atuação**. Cada colaborador acessa apenas o necessário para suas funções.
+O acesso a todos os sistemas da apice é gerenciado por **nível de permissão** e **unidade de atuação**. Cada colaborador acessa apenas o necessário para suas funções.
 
 | Nível | Perfil | Acesso |
 |---|---|---|
@@ -41,11 +41,11 @@ Em caso de dúvida na configuração, contate o TI.
 
 ## Proteção de dados — LGPD
 
-A APICE opera com **dados sensíveis de saúde**, categoria especial pela LGPD (Lei 13.709/2018). O tratamento é fundamentado no Art. 11, II, f — tutela da saúde por serviços de saúde.
+A apice opera com **dados sensíveis de saúde**, categoria especial pela LGPD (Lei 13.709/2018). O tratamento é fundamentado no Art. 11, II, f — tutela da saúde por serviços de saúde.
 
 **Regras obrigatórias para todos os colaboradores:**
 
-- Não compartilhe dados de pacientes fora dos sistemas oficiais (Smart, CISSA, Supabase)
+- Não compartilhe dados de pacientes fora dos sistemas oficiais da apice (Smart, CISSA, Supabase)
 - Não tire prints de prontuários e envie por WhatsApp pessoal ou e-mail não institucional
 - Acesse apenas os pacientes sob seus cuidados diretos
 - Não deixe sessão ativa em computadores compartilhados ou de uso público
@@ -87,7 +87,7 @@ Contate o TI imediatamente:
 
 ## Segurança nos repositórios GitHub
 
-Qualquer código ou configuração no GitHub da APICE deve seguir estas regras:
+Qualquer código ou configuração no GitHub da apice deve seguir estas regras:
 
 - **Jamais** commite tokens de API, senhas, chaves privadas ou credenciais de qualquer tipo
 - Use **GitHub Secrets** para credenciais em workflows de CI/CD

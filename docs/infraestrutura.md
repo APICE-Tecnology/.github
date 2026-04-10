@@ -1,6 +1,6 @@
 ![Documentação TI](https://utils.storage.apicesaudemental.link/documentacao-ti.png)
 
-# Infraestrutura e Sistemas — APICE
+# Infraestrutura e Sistemas — apice
 
 Mapa completo dos sistemas, domínios, serviços e integrações em operação.
 
@@ -24,7 +24,7 @@ Todas as plataformas digitais são hospedadas no **Cloudflare Pages** e servidas
 
 | Plataforma | Domínio público | Descrição |
 |---|---|---|
-| CISSA | `apicesaudemental.link` (subdomínio interno) | IA institucional da APICE |
+| CISSA | `apicesaudemental.link` (subdomínio interno) | IA institucional da apice |
 | Instituto APICE | [institutoapice.org.br](https://institutoapice.org.br) | Site e portal de formação |
 | Dashboard de Tráfego | (interno) | Monitoramento de tráfego da rede |
 | Gym APICE | (interno) | Plataforma complementar |
@@ -125,7 +125,7 @@ O gerenciamento de tarefas, chamados de TI e projetos internos é feito via **Cl
 
 | Repositório | Descrição |
 |---|---|
-| [APICE-Tecnology/demo-repository](https://github.com/APICE-Tecnology/demo-repository) | Documentação central da empresa |
+| [APICE-Tecnology/.github](https://github.com/APICE-Tecnology/.github) | Documentação técnica central da apice |
 | [APICE-Tecnology/PAINEL-TOTEM](https://github.com/APICE-Tecnology/PAINEL-TOTEM) | Automação de painéis e totems de atendimento |
 
 ---

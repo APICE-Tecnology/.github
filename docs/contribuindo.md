@@ -1,6 +1,6 @@
 ![Documentação TI](https://utils.storage.apicesaudemental.link/documentacao-ti.png)
 
-# Contribuindo — GitHub APICE
+# Contribuindo — GitHub apice
 
 Como usar o GitHub da organização, abrir issues, criar pull requests e manter os repositórios organizados.
 
@@ -8,7 +8,7 @@ Como usar o GitHub da organização, abrir issues, criar pull requests e manter 
 
 ## Organização
 
-Todos os repositórios da empresa ficam em **[github.com/APICE-Tecnology](https://github.com/APICE-Tecnology)**.
+Todos os repositórios da apice ficam em **[github.com/APICE-Tecnology](https://github.com/APICE-Tecnology)**.
 
 Repositórios criados em contas pessoais devem ser transferidos para a organização assim que possível (veja instruções abaixo).
 

@@ -1,21 +1,65 @@
-MIT License
+Licença de Uso Restrito — apice
 
-Copyright (c) 2026 APICE-Tecnology
+Copyright © 2026 apice — assistência psiquiátrica integral e centro de estudos
+APICE-Tecnology · Salvador, Bahia, Brasil
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+TODOS OS DIREITOS RESERVADOS.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Este software, documentação e materiais associados ("Conteúdo") são propriedade
+exclusiva da apice e estão protegidos pela legislação brasileira de direitos
+autorais (Lei 9.610/1998) e pela Lei Geral de Proteção de Dados (Lei 13.709/2018).
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+───────────────────────────────────────────────────────────────────────────────
+PERMISSÕES
+───────────────────────────────────────────────────────────────────────────────
+
+O acesso e uso deste Conteúdo é restrito exclusivamente a:
+
+  — Colaboradores com vínculo ativo junto à apice
+  — Parceiros e fornecedores autorizados formalmente pela gestão de TI
+  — Sistemas internos operados sob responsabilidade da apice
+
+Qualquer outro uso, reprodução, distribuição ou modificação é expressamente
+proibido sem autorização prévia e por escrito da apice.
+
+───────────────────────────────────────────────────────────────────────────────
+PROTEÇÃO DE DADOS — LGPD (Lei 13.709/2018)
+───────────────────────────────────────────────────────────────────────────────
+
+Este repositório pode conter ou processar dados pessoais sensíveis de saúde,
+categoria especial nos termos da LGPD.
+
+O tratamento é realizado com fundamento em:
+  — Art. 7º, III — execução de contrato e procedimentos preliminares
+  — Art. 11, II, f — tutela da saúde por profissionais e serviços de saúde
+
+São expressamente vedados:
+
+  — Compartilhamento de dados de pacientes fora dos sistemas oficiais da apice
+  — Acesso, cópia ou extração de dados sem autorização do responsável pelo tratamento
+  — Uso do Conteúdo para finalidades diversas dos serviços assistenciais da apice
+  — Armazenamento de credenciais, tokens ou chaves de acesso neste repositório
+
+Prazos mínimos de retenção:
+  — Prontuário médico: 20 anos (Resolução CFM 1.638/2002)
+  — Dados de menores: até a maioridade + 5 anos (ECA + CFM)
+  — Logs de acesso: 5 anos
+
+───────────────────────────────────────────────────────────────────────────────
+INCIDENTES E RESPONSABILIDADES
+───────────────────────────────────────────────────────────────────────────────
+
+Violações a esta licença, exposição acidental de credenciais ou incidentes com
+dados de pacientes devem ser reportados imediatamente:
+
+  E-mail : ti.clinicaapice@gmail.com
+  WhatsApp: +55 71 3028-8350
+
+Incidentes graves com dados pessoais serão comunicados à Autoridade Nacional de
+Proteção de Dados (ANPD) em até 72 horas, conforme Art. 48 da LGPD.
+
+───────────────────────────────────────────────────────────────────────────────
+
+O CONTEÚDO É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE
+QUALQUER NATUREZA. A APICE NÃO SE RESPONSABILIZA POR DANOS DECORRENTES DO
+USO NÃO AUTORIZADO DESTE CONTEÚDO.
