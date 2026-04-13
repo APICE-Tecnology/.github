@@ -60,22 +60,12 @@ Salvador, Bahia, Brasil
 
 ---
 
-## Sistemas em produção
-
-| Sistema | Tecnologia | Função |
-|---|---|---|
-| **CISSA** | Workers + Supabase + RAG | IA institucional — triagem, chat, base de conhecimento |
-| **PAINEL-TOTEM** | Scripts locais + Smart API | Chamada de pacientes e totems de autoatendimento |
-| **Instituto apice** | Cloudflare Pages | Portal de formação — [institutoapice.org.br](https://institutoapice.org.br) |
-
----
-
 ## Repositórios
 
 | Repositório | Descrição |
 |---|---|
 | [.github](https://github.com/APICE-Tecnology/.github) | Documentação técnica da organização |
-| [PAINEL-TOTEM](https://github.com/APICE-Tecnology/PAINEL-TOTEM) | Automação de painéis e totems de atendimento |
+| [REPOSITÓRIO](https://github.com/orgs/APICE-Tecnology/repositoriesM) | Repositório |
 
 ---
 

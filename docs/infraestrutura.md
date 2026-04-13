@@ -22,27 +22,11 @@ Mapa completo dos sistemas, domínios, serviços e integrações em operação.
 
 Todas as plataformas digitais são hospedadas no **Cloudflare Pages** e servidas via CDN global.
 
-| Plataforma | Domínio público | Descrição |
-|---|---|---|
-| CISSA | `apicesaudemental.link` (subdomínio interno) | IA institucional da apice |
-| Instituto APICE | [institutoapice.org.br](https://institutoapice.org.br) | Site e portal de formação |
-| Dashboard de Tráfego | (interno) | Monitoramento de tráfego da rede |
-| Gym APICE | (interno) | Plataforma complementar |
-
 ---
 
 ## Backends e APIs
 
 Os serviços de backend rodam como **Cloudflare Workers** — serverless, executados na borda da rede.
-
-| Worker | Função |
-|---|---|
-| `cissa-backend` | API principal da IA CISSA (chat, RAG, autenticação) |
-| `agent-meet` | Agente de suporte a reuniões |
-| `meet-backend` | Backend de videoconferência interna |
-| `trafego-backend` | API do dashboard de tráfego (`trafego-api.apicesaudemental.link`) |
-| `trafego-dashboard` | Worker do painel de monitoramento |
-| `linketree` | Linktree interno da APICE |
 
 ---
 
@@ -50,22 +34,14 @@ Os serviços de backend rodam como **Cloudflare Workers** — serverless, execut
 
 Armazenamento de objetos (arquivos, assets, relatórios e vídeos).
 
-| Bucket | Conteúdo |
-|---|---|
-| `storage` | Arquivos e assets gerais da rede |
-| `utils` | Recursos utilitários — logos, ícones, imagens públicas |
-| `consult` | Arquivos e documentos do Apice Consult |
-| `apice-reports` | Relatórios gerados pelos sistemas |
-| `video-cissa` | Vídeos vinculados à base de conhecimento da CISSA |
-
 ---
 
 ## Banco de dados
 
 | Serviço | Localização | Uso |
 |---|---|---|
-| **Supabase (PostgreSQL)** | Cloud | Banco principal — dados transacionais, autenticação JWT, storage |
-| **SQL Server** | Local (rede interna) | Banco de dados do sistema Smart Pixeon e histórico clínico legado |
+| **Supabase (PostgreSQL)** | Cloud |
+| **SQL Server** | Local (rede interna) |
 | **Redis** | Local | Cache e filas de processamento assíncrono |
 | **Cloudflare Hyperdrive** | Edge | Pool de conexões entre Workers e Supabase |
 
@@ -117,7 +93,6 @@ O gerenciamento de tarefas, chamados de TI e projetos internos é feito via **Cl
 |---|---|
 | **WhatsApp Business** | Atendimento ao paciente, agendamentos e automações |
 | **E-mail institucional** | contato@clinicaapice.com.br |
-| **E-mail de TI** | ti.clinicaapice@gmail.com |
 
 ---
 
