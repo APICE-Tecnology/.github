@@ -6,7 +6,7 @@
 
 *Porque a vida pode ser melhor.*
 
-> **Tecnologia que se ajusta ao cuidado com a vida**
+**Tecnologia que se ajusta ao cuidado com a vida**
 
 Salvador, Bahia, Brasil
 
