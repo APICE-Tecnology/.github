@@ -81,6 +81,24 @@ Painéis de chamada e totems de atendimento nas unidades, via [APICE-Tecnology/P
 
 ---
 
+## Princípio de Tecnologia
+
+> **Tecnologia que se ajusta ao cuidado com a vida**
+
+Na apice, a tecnologia não é o centro — o cuidado é.
+
+Todos os sistemas, integrações e produtos digitais devem seguir este princípio:
+
+- Não gerar atrito no atendimento clínico
+- Reduzir carga operacional das equipes
+- Aumentar segurança e rastreabilidade
+- Ser invisível quando possível, essencial quando necessário
+
+Tecnologia aqui não é ferramenta.
+É infraestrutura de cuidado.
+
+---
+
 ## Conformidade com a LGPD
 
 Este repositório está em conformidade com a **Lei Geral de Proteção de Dados (Lei 13.709/2018)**. Dados sensíveis de saúde são tratados com base no Art. 11, II, f — tutela da saúde por serviços de saúde. Nenhum dado pessoal de pacientes deve ser versionado. Para regras completas, consulte [segurança e LGPD](docs/seguranca.md).
