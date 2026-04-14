@@ -6,6 +6,8 @@
 
 *Porque a vida pode ser melhor.*
 
+> **Tecnologia que se ajusta ao cuidado com a vida**
+
 Salvador, Bahia, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grupoapice-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/grupoapice)
