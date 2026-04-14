@@ -73,19 +73,13 @@ A **apice** é uma rede integrada de clínicas e hospitais especializados em sa�
 **Clínico**
 O prontuário, agenda e gestão clínica rodam no **Smart**, ERP/PEP da [Pixeon](https://www.pixeon.com/), com integrações via [Wellon](https://wellon.digital/) e [Zerodox](https://www.zerodox.com.br/).
 
-**Digital**
-Plataformas hospedadas na Cloudflare (Workers + Pages) com banco de dados no Supabase. A IA institucional **CISSA** é o principal produto digital da rede.
-
-**Físico**
-Painéis de chamada e totems de atendimento nas unidades, via [APICE-Tecnology/PAINEL-TOTEM](https://github.com/APICE-Tecnology/PAINEL-TOTEM).
-
 ---
 
 ## Princípio de Tecnologia
 
 > **Tecnologia que se ajusta ao cuidado com a vida**
 
-Na apice, a tecnologia não é o centro — o cuidado é.
+Na apice, a tecnologia não é o centro, o cuidado é.
 
 Todos os sistemas, integrações e produtos digitais devem seguir este princípio:
 
