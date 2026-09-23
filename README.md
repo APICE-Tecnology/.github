@@ -24,6 +24,6 @@ Organização de tecnologia da **apice**. Os repositórios são privados e de us
 
 [clinicaapice.com.br](https://clinicaapice.com.br) · contato@clinicaapice.com.br · +55 71 3028-8350
 
-© 2026 [APICE-Tecnology](https://github.com/APICE-Tecnology) — Uso restrito. Ver [LICENSE](LICENSE).
+© 2026 [APICE-Tecnology](https://github.com/APICE-Tecnology) · Uso restrito. Ver [LICENSE](LICENSE).
 
 </div>

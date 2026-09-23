@@ -1,65 +1,65 @@
-Licença de Uso Restrito — apice
+LICENÇA DE USO RESTRITO
 
-Copyright © 2026 apice — assistência psiquiátrica integral e centro de estudos
-APICE-Tecnology · Salvador, Bahia, Brasil
+Copyright (c) 2026 apice
+APICE-Tecnology, Salvador, Bahia, Brasil
+Todos os direitos reservados.
 
-TODOS OS DIREITOS RESERVADOS.
 
-Este software, documentação e materiais associados ("Conteúdo") são propriedade
-exclusiva da apice e estão protegidos pela legislação brasileira de direitos
-autorais (Lei 9.610/1998) e pela Lei Geral de Proteção de Dados (Lei 13.709/2018).
+1. OBJETO
 
-───────────────────────────────────────────────────────────────────────────────
-PERMISSÕES
-───────────────────────────────────────────────────────────────────────────────
+Este software, sua documentação e os materiais associados ("Conteúdo") são de
+propriedade exclusiva da apice e estão protegidos pela Lei de Direitos Autorais
+(Lei 9.610/1998) e pela Lei Geral de Proteção de Dados (Lei 13.709/2018).
 
-O acesso e uso deste Conteúdo é restrito exclusivamente a:
 
-  — Colaboradores com vínculo ativo junto à apice
-  — Parceiros e fornecedores autorizados formalmente pela gestão de TI
-  — Sistemas internos operados sob responsabilidade da apice
+2. USO AUTORIZADO
 
-Qualquer outro uso, reprodução, distribuição ou modificação é expressamente
-proibido sem autorização prévia e por escrito da apice.
+O acesso e o uso do Conteúdo são restritos a:
 
-───────────────────────────────────────────────────────────────────────────────
-PROTEÇÃO DE DADOS — LGPD (Lei 13.709/2018)
-───────────────────────────────────────────────────────────────────────────────
+  a) colaboradores com vínculo ativo com a apice;
+  b) parceiros e fornecedores formalmente autorizados pela gestão de TI;
+  c) sistemas internos operados sob responsabilidade da apice.
 
-Este repositório pode conter ou processar dados pessoais sensíveis de saúde,
-categoria especial nos termos da LGPD.
+Qualquer outro uso, reprodução, distribuição ou modificação depende de
+autorização prévia e por escrito da apice.
 
-O tratamento é realizado com fundamento em:
-  — Art. 7º, III — execução de contrato e procedimentos preliminares
-  — Art. 11, II, f — tutela da saúde por profissionais e serviços de saúde
 
-São expressamente vedados:
+3. PROTEÇÃO DE DADOS
 
-  — Compartilhamento de dados de pacientes fora dos sistemas oficiais da apice
-  — Acesso, cópia ou extração de dados sem autorização do responsável pelo tratamento
-  — Uso do Conteúdo para finalidades diversas dos serviços assistenciais da apice
-  — Armazenamento de credenciais, tokens ou chaves de acesso neste repositório
+O Conteúdo pode conter ou processar dados pessoais sensíveis de saúde. O
+tratamento tem fundamento no art. 7º, III, e no art. 11, II, "f", da LGPD.
+
+É vedado:
+
+  a) compartilhar dados de pacientes fora dos sistemas oficiais da apice;
+  b) acessar, copiar ou extrair dados sem autorização do responsável pelo
+     tratamento;
+  c) usar o Conteúdo para finalidades diversas dos serviços assistenciais da
+     apice;
+  d) armazenar credenciais, tokens ou chaves de acesso neste repositório.
 
 Prazos mínimos de retenção:
-  — Prontuário médico: 20 anos (Resolução CFM 1.638/2002)
-  — Dados de menores: até a maioridade + 5 anos (ECA + CFM)
-  — Logs de acesso: 5 anos
 
-───────────────────────────────────────────────────────────────────────────────
-INCIDENTES E RESPONSABILIDADES
-───────────────────────────────────────────────────────────────────────────────
+  Prontuário médico   20 anos (Resolução CFM 1.638/2002)
+  Dados de menores    até a maioridade, acrescida de 5 anos
+  Logs de acesso      5 anos
 
-Violações a esta licença, exposição acidental de credenciais ou incidentes com
-dados de pacientes devem ser reportados imediatamente:
 
-  E-mail : contato@clinicaapice.com.br
-  WhatsApp: +55 71 3028-8350
+4. INCIDENTES
 
-Incidentes graves com dados pessoais serão comunicados à Autoridade Nacional de
-Proteção de Dados (ANPD) em até 72 horas, conforme Art. 48 da LGPD.
+Violações desta licença, exposição de credenciais ou incidentes com dados de
+pacientes devem ser comunicados imediatamente:
 
-───────────────────────────────────────────────────────────────────────────────
+  E-mail     contato@clinicaapice.com.br
+  WhatsApp   +55 71 3028-8350
 
-O CONTEÚDO É FORNECIDO "NO ESTADO EM QUE SE ENCONTRA", SEM GARANTIAS DE
-QUALQUER NATUREZA. A APICE NÃO SE RESPONSABILIZA POR DANOS DECORRENTES DO
-USO NÃO AUTORIZADO DESTE CONTEÚDO.
+Incidentes relevantes com dados pessoais serão comunicados à Autoridade Nacional
+de Proteção de Dados (ANPD) nos prazos previstos no art. 48 da LGPD e em sua
+regulamentação.
+
+
+5. GARANTIAS E RESPONSABILIDADE
+
+O Conteúdo é fornecido "no estado em que se encontra", sem garantias de qualquer
+natureza. A apice não se responsabiliza por danos decorrentes do uso não
+autorizado do Conteúdo.
